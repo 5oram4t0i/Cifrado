@@ -10,11 +10,11 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 
 ## Contenidos
 
-![Escítala](/Imagenes de cifrado/Skytale.png)
+! [Escítala](/Imagenes de cifrado/Skytale.png)
 
 - [Escítala](Escítala.md)
 
-![Pigpen](/Imagenes de cifrado/Pigpen_cipher_key.svg.png)
+! [Pigpen](/Imagenes de cifrado/Pigpen_cipher_key.svg.png)
 
 - [Pigpen](Escítala.md)
 
