@@ -12,11 +12,11 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 
 ![Escítala](/ICifrado/Skytale.png)
 
-- [Escítala](Escítala.md)
+- [Escítala](/Cifrados/Escítala.md)
 
 ![Pigpen](/ICifrado/Pigpen_cipher_key.svg.png)
 
-- [Pigpen](Escítala.md)
+- [Pigpen](/Cifrados/Escítala.md)
 
 ## Referencias
 
