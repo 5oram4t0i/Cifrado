@@ -1,2 +1,11 @@
 # Cifrado
-Investigación de tipos de cifrado.
+
+## Investigación de tipos de cifrado.
+
+## Introducción
+
+## Contenidos
+
+## Referencias
+
+## Licencia
