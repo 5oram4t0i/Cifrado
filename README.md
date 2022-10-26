@@ -16,12 +16,12 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 
 ![Pigpen](/ICifrado/Pigpen_cipher_key.svg.png)
 
-- [Pigpen](/Cifrados/Pigpen.md)
+- [Pigpen](/Cifrados/Escítala.md)
 
 ## Referencias
 
-- https://museo.inf.upv.es/blog/2021/05/14/escitala-espartana/
-- 
+- [Cifrado Escítala](https://museo.inf.upv.es/blog/2021/05/14/escitala-espartana/)
+- [Cifrado Pigpen](https://es.wikipedia.org/wiki/Cifrado_francmas%C3%B3n)
 
 
 ## Licencia
