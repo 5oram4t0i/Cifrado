@@ -14,7 +14,7 @@ Normalmente, solo el emisor y el receptor tienen las reglas para descifrar estos
 
 ![Escítala](/ICifrado/Skytale.png)
 
-- [Pigpen](/Cifrados/Escítala.md)
+- [Pigpen](/Cifrados/Pigpen.md)
 
 ![Pigpen](/ICifrado/Pigpen_cipher_key.svg.png)
 
