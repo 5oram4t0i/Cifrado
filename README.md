@@ -4,8 +4,8 @@
 
 ## Introducción
 
-El cifrado implica utilizar claves criptograficas; un conjunto de valores matemáticos que acuerdan tanto el emisor como el receptor. 
-El receptor usa la clave para descifrar los datos y poder asi convertirlos en texto legible. 
+El cifrado implica utilizar claves criptográficas, un conjunto de valores matemáticos que acuerdan tanto el emisor como el receptor. 
+El receptor usa la clave para descifrar los datos y así poder convertirlos en texto legible. 
 Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos codigos, pero hay personas encargadas de estudiar y descifrar estas claves.
 
 ## Contenidos
