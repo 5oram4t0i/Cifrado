@@ -16,7 +16,7 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 
 ![Pigpen](/ICifrado/Pigpen_cipher_key.svg.png)
 
-- [Pigpen](/Cifrados/Escítala.md)
+- [Pigpen](/Cifrados/Pigpen.md)
 
 ## Referencias
 
