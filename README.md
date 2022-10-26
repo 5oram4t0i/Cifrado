@@ -10,13 +10,13 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 
 ## Contenidos
 
-- [Escítala](/Cifrados/Escítala.md)
-
 ![Escítala](/ICifrado/Skytale.png)
 
-- [Pigpen](/Cifrados/Escítala.md)
+- [Escítala](/Cifrados/Escítala.md)
 
 ![Pigpen](/ICifrado/Pigpen_cipher_key.svg.png)
+
+- [Pigpen](/Cifrados/Escítala.md)
 
 ## Referencias
 
@@ -27,3 +27,6 @@ Normalmente, solo el emisor y receptor tienen las reglas para descifrar estos co
 ## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
+
+## Participantes
+Este trabajo está realizado por José Miguel González Alba y Jesús González Alba
