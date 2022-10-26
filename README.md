@@ -23,10 +23,9 @@ Normalmente, solo el emisor y el receptor tienen las reglas para descifrar estos
 - [Cifrado Escítala](https://museo.inf.upv.es/blog/2021/05/14/escitala-espartana/)
 - [Cifrado Pigpen](https://es.wikipedia.org/wiki/Cifrado_francmas%C3%B3n)
 
+## Participantes
+Este trabajo está realizado por José Miguel González Alba y Jesús González Alba.
 
 ## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
-
-## Participantes
-Este trabajo está realizado por José Miguel González Alba y Jesús González Alba.
